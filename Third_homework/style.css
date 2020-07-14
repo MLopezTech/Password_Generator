@@ -1,0 +1,11 @@
+.content {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: rgb(243, 240, 240);
+  padding: 50px;
+  height: 30%;
+  width: 150%;
+}
+#display {
+  width: 100%;
+}
